@@ -1,6 +1,6 @@
 # SemiAutomaticScanner🌍
 
-🤔<h4>It is designed to work on an android phone with the Termux emulator.This tries to automate the first steps of a recon fase in a pentest</h4>
+🤔<h4>It is designed to work on an android phone with the Termux emulator and also in Linux systems tested in Ubuntu and ParrotOS. This tries to automate the first steps of a recon phase in a pentest</h4>
 
  🔭The step that script follow are:
 
