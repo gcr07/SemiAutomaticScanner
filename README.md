@@ -1,4 +1,4 @@
-# SemiAutomaticScanner🌍
+<h1>🌍SemiAutomaticScanner</h1>(beta 1.0.0)
 
 🤔It is designed to work on an Android phone with the Termux emulator and also on Linux systems tested on Ubuntu and ParrotOS. This attempts to automate the first steps of a recognition phase in a pentest.
 
