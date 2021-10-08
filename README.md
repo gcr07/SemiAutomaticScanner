@@ -1,4 +1,4 @@
-🌍# SemiAutomaticScanner
+# SemiAutomaticScanner🌍
 
 🤔<h4>It is designed to work on an android phone with the Termux emulator.This tries to automate the first steps of a recon fase in a pentest</h4>
 
